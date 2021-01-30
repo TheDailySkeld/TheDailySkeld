@@ -4,7 +4,7 @@
   padding:0;
 }
 body {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/bg.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(https://static.wixstatic.com/media/bb1bd6_84869fb056c2438f9b6997d8f9489acb~mv2.gif);
   background-size: cover;
   background-position: center;
   background-repeat: repeat-x; 
